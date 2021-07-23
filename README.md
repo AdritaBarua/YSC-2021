@@ -10,3 +10,7 @@ Tennis	1101	21041	222152	19.11	22153
 Athletics	744	17932	184616	24.10	22199
 
 The link of the dataset containg csv file is given here : https://drive.google.com/file/d/1Ub486EMIov18FIo5lj9RwmNZWvi7XZlp/view?usp=sharing
+
+| Attempt | #1  | #2  |
+| :-----: | :-: | :-: |
+| Seconds | 301 | 283 |
