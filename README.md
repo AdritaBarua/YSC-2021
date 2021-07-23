@@ -1,5 +1,6 @@
 # YSC-2021
 The dataset developed for categorizing Bangla Sports News in named BNeC. It containes a total of 43306 text documents of four sports categories : Cricket, Football, Tennis and, Athletics.
+
 A summary of the collected data is shown in the following Table:
 
 Category	No. of docs	No. of sentences	No. of words	Avg. sentences per doc	No. of unique words
